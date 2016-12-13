@@ -1,0 +1,48 @@
+h1{
+  
+ 
+ color: purple;
+font-family: 'Quicksand', sans-serif;}
+
+
+body{
+  
+  background-color:cyan;
+  cursor: pointer;
+}
+
+a:hover{
+  color: purple;
+ font-size: 150%;
+}
+  
+header {
+ text-align: center;
+ background: url("https://phenomenex.files.wordpress.com/2016/01/water.jpg");
+ background-size: cover;
+ }
+ul{
+ padding: 10px;
+}
+li {
+ text-align: center; 
+  display: inline;
+ padding: 0px 0px 0px 0px;
+ }
+article {
+ 
+  display: inline-block;
+  width: 30%;
+    margin: 1%;
+  color: purple
+  
+}
+
+img{
+  width: 200px;
+}
+  
+  
+  
+  
+  
